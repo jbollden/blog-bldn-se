@@ -1,0 +1,30 @@
+baseurl = "http://hugo.bldn.se/"
+languageCode = "en-us"
+title = "blog.bldn.se"
+theme = "casper"
+
+[params]
+	description = "thoughts, stories, ideas"
+	author = "Jonas Bolldén"
+	bio = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
+	location = "Luleå, Sweden"
+#	image = "/img/backdrop/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
+#	image = "https://static.bldn.se/images/blog/breaking-news-change-of-scenery/Lulea_NorraHamn_2010-06-11.jpg"
+
+[permalinks]
+	post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+	name = "Home"
+	weight = -110
+	url = "/"
+[[menu.main]]
+	name = "About"
+	weight = -100
+	identifier = "about"
+	url = "/about/"
+[[menu.main]]
+	name = "CV"
+	weight = -100
+	identifier = "cv"
+	url = "https://bldn.se/cv/"
