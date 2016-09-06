@@ -1,7 +1,7 @@
 +++
 author = ""
 comments = true
-date = "2016-05-19T16:12:00"
+date = "2016-05-19T16:12:00+02:00"
 draft = false
 image = "img/post/breaking-news-change-of-scenery/Lulea_NorraHamn_2010-06-11_807x605.jpg"
 menu = ""

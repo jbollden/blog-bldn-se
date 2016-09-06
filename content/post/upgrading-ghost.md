@@ -1,7 +1,7 @@
 +++
 author = ""
 comments = true
-date = "2015-12-03T08:44:00"
+date = "2015-12-03T08:44:00+02:00"
 draft = false
 image = ""
 menu = ""
