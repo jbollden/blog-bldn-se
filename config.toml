@@ -1,4 +1,4 @@
-baseurl = "http://hugo.bldn.se/"
+baseurl = "https://blog.bldn.se/"
 languageCode = "en-us"
 title = "blog.bldn.se"
 theme = "casper"
