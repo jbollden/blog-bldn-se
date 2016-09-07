@@ -9,6 +9,13 @@ disqusShortname = "blogbldnse"
 	author = "Jonas Bolldén"
 	bio = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
 	location = "Luleå, Sweden"
+	cover = "https://static.bldn.se/img/backdrops/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
+	linkedinName = "jonasbollden"
+	githubName = "jbollden"
+	facebookName = "jonasbollden"
+	twitterName = "jonasbollden"
+	instagramName = "jonasbollden"
+	customCss = ["css/custom.css"]
 
 [permalinks]
 	post = "/:year/:month/:day/:slug/"
