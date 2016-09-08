@@ -33,4 +33,4 @@ disqusShortname = "blogbldnse"
 	name = "CV"
 	weight = -100
 	identifier = "cv"
-	url = "//bldn.se/cv/"
+	url = "https://bldn.se/cv/"
