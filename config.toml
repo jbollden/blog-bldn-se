@@ -4,6 +4,7 @@ title = "blog.bldn.se"
 theme = "casper"
 disqusShortname = "blogbldnse" 
 
+
 [params]
 	description = "thoughts, stories, ideas"
 	author = "Jonas Bolldén"
@@ -16,6 +17,7 @@ disqusShortname = "blogbldnse"
 	twitterName = "jonasbollden"
 	instagramName = "jonasbollden"
 	customCss = ["css/custom.css"]
+	googleAnalyticsUserID = "UA-48225347-2"
 
 [permalinks]
 	post = "/:year/:month/:day/:slug/"
