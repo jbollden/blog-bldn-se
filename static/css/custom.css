@@ -2,3 +2,12 @@
 	text-shadow: .1em .1em gray;
 	font-weight: bold;
 }
+.post-footer {
+	padding-top: 1em;
+	min-height: 2em;
+}
+.post-footer .share {
+	top: 0em;
+	padding-top: 1em;
+	width: auto;
+}

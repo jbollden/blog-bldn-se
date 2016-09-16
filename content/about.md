@@ -10,6 +10,8 @@ slug = "about"
 tags = []
 title = "About"
 
+noauthor = true
+
 +++
 
 At its core, this site is a blog. Wikipedia defines this as:
