@@ -37,9 +37,11 @@
     <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/nav.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
 
-	{{ range .Site.Params.customCss }}
-    <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}" />
-	{{ end }}
+    <style type="text/css">
+        .main-header-content { text-shadow: .1em .1em gray; font-weight: bold; }
+        .post-footer { padding-top: 1em; min-height: 2em; }
+        .post-footer .share { top: 0em; padding-top: 1em; width: auto; }
+    </style>
 
     {{ if .Site.Params.RSSLink}}
         <link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
