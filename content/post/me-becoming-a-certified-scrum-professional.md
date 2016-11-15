@@ -46,4 +46,4 @@ One has also to supply information on at least 36 months of successful work with
 
 ## What now?
 
-Being a CSP might mean more to me than it does to those around me. With an organisation such as Scrum Alliance saying backing up my knowledge and approving my application I feel more confident that I know my art of Scrum. This added confidence has already made ripples in my work.
+Being a CSP might mean more to me than it does to those around me. With an organisation such as Scrum Alliance backing up my knowledge and approving my application I feel more confident that I know my art of Scrum. This added confidence has already made ripples in my work.
