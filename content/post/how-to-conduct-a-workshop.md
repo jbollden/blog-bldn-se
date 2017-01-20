@@ -16,7 +16,7 @@ I was invited to hold a short introduction on how to conduct workshops. The audi
 
 ## Definition
 
-A *workshop*[^n] is
+A *workshop*[^1] is
 
 > a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.
 
@@ -38,7 +38,7 @@ I'd say there are four phases in conducting a workshop; *prepare*, *set up*, *ru
 
 First you need to *define the goal* of the workshop. Try to define the purpose or objective of the meeting. This will help you keep the workshop on point. The goal could of course be assigned by someone else, but you as facilitator need to understand the goal, not necessary the entire detailed subject that probably will be in the discussion towards reaching the goal.
 
-You might also need to *decide who will participate* in the workshop. I suggest not having more than 15 participants, thus keeping the group small enough to maintain an overview of it. I try to make sure that there is an odd number of participants (excluding myself as facilitator). The main reason for the odd number is that in some occasions things might come to a vote, then the odd number will help you moving forward.[^n]
+You might also need to *decide who will participate* in the workshop. I suggest not having more than 15 participants, thus keeping the group small enough to maintain an overview of it. I try to make sure that there is an odd number of participants (excluding myself as facilitator). The main reason for the odd number is that in some occasions things might come to a vote, then the odd number will help you moving forward.[^2]
 
 Preparing an *agenda* for the meeting is always a good idea, which in turn should be sent with the invitation. It is also a good idea to *book a venue* that has enough space for at least the double amount of persons invited. There are two reasons for this; 1) the air is usually better in a bigger room, and; 2) should the participants break out in smaller groups (by choice or need) they won't need to leave the room which in turn makes it easier for you to monitor them.
 
@@ -111,5 +111,5 @@ Being a facilitator at a workshop is an art and a sort of acting. You will have 
 * [How to Conduct a Workshop](http://www.wikihow.com/Conduct-a-Workshop)
 * [A Coach's Guide to Facilitation](https://leanpub.com/facilitation) (book)
 
-[^n]: A search on Google for "workshop meaning", [https://www.google.se/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=workshop%20meaning](https://www.google.se/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=workshop%20meaning) (accessed 2016-02-10 16:01)
-[^n]: The suggestion of using voting in a workshop should not come from the facilitator, but rather from the participants. This will usually happen when the normal discussion has hit a brick wall and there's no other way forward.
+[^1]: A search on Google for "workshop meaning", [https://www.google.se/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=workshop%20meaning](https://www.google.se/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=workshop%20meaning) (accessed 2016-02-10 16:01)
+[^2]: The suggestion of using voting in a workshop should not come from the facilitator, but rather from the participants. This will usually happen when the normal discussion has hit a brick wall and there's no other way forward.
