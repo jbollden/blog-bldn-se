@@ -1,11 +1,12 @@
-baseurl = "https://blog.bldn.se/"
+baseurl = "blog.bldn.se"
 languageCode = "en-us"
 title = "blog.bldn.se"
 theme = "casper"
 disqusShortname = "blogbldnse" 
 
 [params]
-	cover = "https://static.bldn.se/img/backdrops/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
+	cover = "//static.bldn.se/img/backdrops/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
+    favicon = "//bldn.se/favicon.ico"
 	description = "thoughts, stories, ideas"
 	googleAnalyticsUserID = "UA-48225347-2"
 
