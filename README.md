@@ -1,3 +1,3 @@
-# blog.bldn.se
+# bldn.se
 
-This is my personal blog generated through HUGO (https://gohugo.io/).
+This is my personal web page generated through HUGO (https://gohugo.io/).
