@@ -1,18 +1,42 @@
-baseurl = "https://blog.bldn.se/"
-languageCode = "en-us"
-title = "blog.bldn.se"
+baseurl = "https://bldn.se/"
+copyright = "All rights reserved - 2017"
+#disqusshortname = "vjeantet"
+languagecode = "en-GB"
+paginate = 5
+pluralizelisttitles = true
 theme = "casper"
-disqusShortname = "blogbldnse" 
+title = "Jonas Bolldén"
+
+#[[menu.main]]
+#	identifier="about"
+#	name = "About"
+#	#pre = "<h3>Follow me</h3>"
+#	url = "/about/"
+#	weight = 100
+[[menu.main]]
+	identifier="resume"
+	name = "Résumé"
+	url = "https://bldn.se/resume/"
+	weight = -110
+[[menu.main]]
+	identifier = "blog"
+	name = "Blog"
+	url = "/"
+	weight = -120
 
 [params]
-	cover = "//static.bldn.se/img/backdrops/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
-    favicon = "//bldn.se/favicon.ico"
-	description = "thoughts, stories, ideas"
-	googleAnalyticsUserID = "UA-48225347-2"
-
 	author = "Jonas Bolldén"
+	authorlocation = "Luleå, Sweden"
+	authorwebsite = "https://bldn.se"
 	bio = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
-	location = "Luleå, Sweden"
+
+	cover = "/i_mg/backdrops/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
+	description = "thoughts, stories, ideas"
+	hideHUGOSupport = false
+	#logo = ""
+
+	googleAnalyticsUserID = "UA-48225347-1"
+
 	linkedinName = "jonasbollden"
 	githubName = "jonasbollden"
 	facebookName = "jonasbollden"
@@ -22,22 +46,7 @@ disqusShortname = "blogbldnse"
 [permalinks]
 	post = "/:year/:month/:day/:slug/"
 
-[[menu.main]]
-	name = "Home"
-	weight = -110
-	url = "/"
-[[menu.main]]
-	name = "Profile"
-	weight = -100
-	identifier = "profile"
-	url = "/profile/"
-[[menu.main]]
-	name = "About"
-	weight = -90
-	identifier = "about"
-	url = "/about/"
-[[menu.main]]
-	name = "CV"
-	weight = -80
-	identifier = "cv"
-	url = "https://bldn.se/cv/"
+[sitemap]
+	ChangeFreq = ""
+	Filename = "sitemap.xml"
+	Priority = "-1"

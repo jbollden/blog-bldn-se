@@ -4,9 +4,10 @@ comments = false
 date = "2016-09-16T10:10:21+02:00"
 draft = false
 image = ""
-menu = ""
+menu = "main"
 share = false
 slug = "profile"
+tags = []
 title = "Profile"
 
 noauthor = true
