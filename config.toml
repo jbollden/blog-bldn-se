@@ -1,16 +1,18 @@
-baseurl = "https://bldn.se/"
+BaseURL = "https://bldn.se/"
 Copyright = " - CC BY-SA 4.0"
 DisqusShortname = "bldn-se"
-Languagecode = "en-GB"
-paginate = 5
-pluralizelisttitles = true
-theme = "casper"
+Languagecode = "en"
+Paginate = 5
 Title = "Jonas Bolldén"
+
+# CLI flags
+pluralizeListTitles = true
+theme = "casper"
 
 [[menu.main]]
 	identifier="resume"
 	name = "Résumé"
-	url = "https://bldn.se/resume/"
+	url = "https://bldn.se/cv/"
 	weight = -110
 [[menu.main]]
 	identifier = "blog"
@@ -24,7 +26,7 @@ Title = "Jonas Bolldén"
 	authorwebsite = "https://bldn.se"
 	bio = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
 
-	cover = "/img/backdrops/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
+	cover = "https://static.bldn.se/img/backdrops/Linkoping_GreyTable_2016-05-01_1400x1050.jpg"
 	description = "thoughts, stories, ideas"
 	hideHUGOSupport = false
 	# logo = ""
