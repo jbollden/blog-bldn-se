@@ -21,3 +21,7 @@ At its core, this site is a blog. Wikipedia defines this as:
 This means that the site is by me, Jonas Bolldén, and it holds my thoughts and ideas mainly related to different aspects of IT and software development. Some of these ideas have been, will be, or are in the making of being implemented as full blown solutions, as example snippets, or as something there in between.
 
 Hopefully, the site will constantly be changing, especially when it comes to the presented content, and information. Should you want to know more about me, you can find information at https://bldn.se/cv.
+
+## License
+
+The content of this web site is under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) which is a license explained at https://creativecommons.org/licenses/by-sa/4.0/.
