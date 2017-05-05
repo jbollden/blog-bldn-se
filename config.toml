@@ -1,5 +1,5 @@
 baseurl = "https://bldn.se/"
-Copyright = " - <a href="https://dev.bldn.se/hugo/about/#license">CC BY-SA 4.0</a>"
+Copyright = " - CC BY-SA 4.0"
 DisqusShortname = "bldn-se"
 Languagecode = "en-GB"
 paginate = 5
