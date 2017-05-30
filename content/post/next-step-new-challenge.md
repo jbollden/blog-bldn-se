@@ -14,5 +14,5 @@ title = "Next step, new challenge"
 
 I’ve been given this amazing opportunity that would be outright stupid to turn down, and I’m usually not stupid. I’ll be taking on the position as team manager at the consultancy [Sogeti](https://www.sogeti.se/)  here in Luleå. I’m looking forward to return to my old firm where I spent five years and eight months at the office of Linköping.
 
-Through this I will off course be putting myself to the test. As always, I’m humbled before the task(s) at hand, but I believe I can do some good together with my new colleagues.
+Through this I will of course be putting myself to the test. As always, I’m humbled before the task(s) at hand, but I believe I can do some good together with my new colleagues.
 
