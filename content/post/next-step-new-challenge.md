@@ -3,12 +3,12 @@ author = ""
 comments = true
 date = "2017-05-30T12:28:40+02:00"
 draft = false
-image = "img/post/the-next-step/Sogeti_Plastic_Bag_2017-05-29_1400x701.jpg"
+image = "img/post/next-step-new-challenge/Sogeti_Plastic_Bag_2017-05-29_1400x701.jpg"
 menu = ""
 share = true
-slug = "the-next-step"
+slug = "next-step-new-challenge"
 tags = ["news"]
-title = "The next step"
+title = "Next step, new challenge"
 
 +++
 
