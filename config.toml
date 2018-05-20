@@ -1,50 +1,59 @@
-BaseURL = "https://bldn.se/"
-Copyright = " - CC BY-SA 4.0"
-DisqusShortname = "bldn-se"
-Languagecode = "en"
-Paginate = 5
-Title = "Jonas Bolldén"
-
-# CLI flags
-pluralizeListTitles = true
-theme = "casper"
-
-[[menu.main]]
-	identifier="resume"
-	name = "Résumé"
-	url = "https://bldn.se/cv/"
-	weight = -110
-[[menu.main]]
-	identifier = "blog"
-	name = "Blog"
-	url = "/"
-	weight = -120
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "" # DisqusShortname = "bldn-se"
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+title       = "Jonas Bolldén"
 
 [params]
-	author = "Jonas Bolldén"
-	authorlocation = "Luleå, Sweden"
-	#authorwebsite = "https://bldn.se"
-	bio = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
+  title       = "Jonas Bolldén"
+  subtitle    = ""
+  copyright   = "- CC BY-SA 4.0 © 2018"
 
-	cover = "https://static.bldn.se/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
-	description = "thoughts, stories, ideas"
-	hideHUGOSupport = false
-	# logo = ""
+  cover       = "/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
+  description = "thoughts, stories, ideas"
+  metaDescription = ""
+  googleAnalytics = "" # googleAnalyticsUserID = "UA-48225347-1"
+  customCSS = ["css/custom.css"]
+  RSSLink = ""
 
-	googleAnalyticsUserID = "UA-48225347-1"
+  twitterName = "jonasbollden"
+  fbName = "jonasbollden"
+  githubName = "jonasbollden"
+  linkedinName = "jonasbollden"
+  mediumName = ""
+  instagramName = "jonasbollden"
 
-	linkedinName = "jonasbollden"
-	githubName = "jonasbollden"
-	facebookName = "jonasbollden"
-	twitterName = "jonasbollden"
-	instagramName = "jonasbollden"
+  # logo = "hugo-logo.png"
+  orgName = "bldn.se"
+  orgWebsite = "https://bldn.se"
+  orgDescription = ""
 
-	customCSS = ["css/custom.css"]
+  showSupport = true
+
+  author = "Jonas Bolldén"
+  authorAvatar = "https://avatars0.githubusercontent.com/u/1087075"
+  authorLocation = "Luleå, Sweden"
+  # authorWebsite = "https://bldn.se"
+  authorDescription = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  # casper or caspertwo
+  singleViewStyle = "casper"
 
 [permalinks]
-	post = "/:year/:month/:day/:slug/"
+  post = "/:year/:month/:day/:slug/"
 
-[sitemap]
-	ChangeFreq = ""
-	Filename = "sitemap.xml"
-	Priority = "-1"
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 100
+

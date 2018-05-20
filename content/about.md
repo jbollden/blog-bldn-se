@@ -3,7 +3,7 @@ author = ""
 comments = false
 date = "2016-09-04T10:52:22+02:00"
 draft = false
-image = "https://static.bldn.se/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
+image = "/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
 menu = "main"
 share = false
 slug = "about"
@@ -20,7 +20,7 @@ At its core, this site is a blog. Wikipedia defines this as:
 
 This means that the site is by me, Jonas Bolldén, and it holds my thoughts and ideas mainly related to different aspects of IT and software development. Some of these ideas have been, will be, or are in the making of being implemented as full blown solutions, as example snippets, or as something there in between.
 
-Hopefully, the site will constantly be changing, especially when it comes to the presented content, and information. Should you want to know more about me, you can find information at https://bldn.se/cv.
+Hopefully, the site will constantly be changing, especially when it comes to the presented content, and information. Should you want to know more about me, you can find information at https://www.linkedin.com/in/jonasbollden.
 
 ## License
 
