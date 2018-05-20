@@ -1,59 +1,59 @@
-baseurl         = "/"
-theme           = "casper-two"
-languageCode    = "en-US"
-disqusShortname = "" # DisqusShortname = "bldn-se"
-paginate        = 6
-#SectionPagesMenu = "main"
-canonifyurls    = true
-title       = "Jonas Bolldén"
+baseurl             = "/"
+theme               = "casper-two"
+languageCode        = "en-US"
+disqusShortname     = "" # DisqusShortname = "bldn-se"
+paginate            = 6
+#SectionPagesMenu    = "main"
+canonifyurls        = true
+title               = "Jonas Bolldén"
 
 [params]
-  title       = "Jonas Bolldén"
-  subtitle    = ""
-  copyright   = "- CC BY-SA 4.0 © 2018"
+    title       = "Jonas Bolldén"
+    subtitle    = ""
+    copyright   = "- CC BY-SA 4.0 © 2018"
 
-  cover       = "/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
-  description = "thoughts, stories, ideas"
-  metaDescription = ""
-  googleAnalytics = "" # googleAnalyticsUserID = "UA-48225347-1"
-  customCSS = ["css/custom.css"]
-  RSSLink = ""
+    cover           = "/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
+    description     = "thoughts, stories, ideas"
+    metaDescription = ""
+    googleAnalytics = "UA-48225347-1"
+    customCSS       = ["css/custom.css"]
+    RSSLink         = ""
 
-  twitterName = "jonasbollden"
-  fbName = "jonasbollden"
-  githubName = "jonasbollden"
-  linkedinName = "jonasbollden"
-  mediumName = ""
-  instagramName = "jonasbollden"
+    twitterName     = "jonasbollden"
+    fbName          = "jonasbollden"
+    githubName      = "jonasbollden"
+    linkedinName    = "jonasbollden"
+    #mediumName      = ""
+    instagramName   = "jonasbollden"
 
-  # logo = "hugo-logo.png"
-  orgName = "bldn.se"
-  orgWebsite = "https://bldn.se"
-  orgDescription = ""
+    #logo            = "hugo-logo.png"
+    orgName         = "bldn.se"
+    orgWebsite      = "https://bldn.se"
+    orgDescription  = ""
 
-  showSupport = true
+    showSupport = true
 
-  author = "Jonas Bolldén"
-  authorAvatar = "https://avatars0.githubusercontent.com/u/1087075"
-  authorLocation = "Luleå, Sweden"
-  # authorWebsite = "https://bldn.se"
-  authorDescription = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
+    author              = "Jonas"
+    authorAvatar        = "https://avatars0.githubusercontent.com/u/1087075"
+    authorLocation      = "Luleå, Sweden"
+    #authorWebsite       = "https://bldn.se"
+    authorDescription   = "By trade a pragmatic IT-human with a burning passion for Scrum; by choice a husband, shooter, and servant-leader."
 
-  pageNotFoundTitle = "404 - Page not found"
+    pageNotFoundTitle   = "404 - Page not found"
 
-  # casper or caspertwo
-  singleViewStyle = "casper"
+    # casper or caspertwo
+    singleViewStyle = "caspertwo"
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
+    post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
+    name    = "Home"
+    url     = "/"
+    weight  = 200
 
 [[menu.main]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 100
+    name    = "Tags"
+    url     = "/tags/"
+    weight  = 100
 
