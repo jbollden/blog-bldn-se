@@ -1,7 +1,7 @@
 baseurl             = "/"
 theme               = "casper-two"
 languageCode        = "en-US"
-disqusShortname     = "" # DisqusShortname = "bldn-se"
+#DisqusShortname     = "bldn-se"
 paginate            = 6
 #SectionPagesMenu    = "main"
 canonifyurls        = true

@@ -1,5 +1,5 @@
 +++
-author = "Jonas Bolldén"
+author = ""
 comments = true
 date = "2017-01-18T16:52:10+01:00"
 draft = false
