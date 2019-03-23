@@ -1,0 +1,33 @@
+title = "Jonas Bolldén"
+baseURL = "https://www.bldn.se"
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "themes"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 9
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https://www.facebook.com/jonasbollden"
+  twitter = "https://twitter.com/jonasbollden"
+  instagram = "https://www.instagram.com/jonasbollden/"
+  youtube = ""
+  github = "https://github.com/jonasbollden"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/jonasbollden/"
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
+  recent_posts_number = 5
