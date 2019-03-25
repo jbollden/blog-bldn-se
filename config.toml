@@ -2,7 +2,6 @@ title = "Jonas Bolldén"
 baseURL = "https://www.bldn.se"
 languageCode = "en-us"
 theme = "ananke"
-themesDir = "themes"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -18,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = "https://www.facebook.com/jonasbollden"
   twitter = "https://twitter.com/jonasbollden"
   instagram = "https://www.instagram.com/jonasbollden/"
@@ -31,3 +30,24 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/img/backdrops/Norrbotten_PanoramaMire_2017-07-26_1584x424.jpg"
   recent_posts_number = 5
+  show_reading_time = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "posts"
+    url = "/posts/"
+    weight = -130
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    title = "categories"
+    url = "/categories/"
+    weight = -120
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    title = "tags"
+    url = "/tags/"
+    weight = -110

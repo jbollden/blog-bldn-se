@@ -3,7 +3,6 @@ author = ""
 comments = false
 date = "2016-09-04T10:52:22+02:00"
 draft = false
-image = ""
 menu = "main"
 share = false
 slug = "about"
