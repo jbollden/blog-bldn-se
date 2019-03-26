@@ -23,8 +23,8 @@ One could say I've used the first rule for quite some time, but the meetings wer
 	<li><strong>Use 15 minutes of prep time</strong>. As facilitator of the meeting you might need time to prepare; e.g. the room, projector, computer, and/or yourself. So, book the room/venue for the whole hour, use the first 15 minutes for your own preparations, and the following 45 to hold the actual meeting. Technically this might mean you'll have to make two bookings, but it will allow you to be sure the time before the meeting starting quarter past will not be occupied by someone else's meeting.</li>
 </ol>
 
-![Example of the two-booking-solution](/img/post/lets-meet-on-time/Calendar_326x255.png)
-<span class="figure-caption">Example of the two-booking-solution.</span>
+![Example of the two-booking-solution](/img/posts/lets-meet-on-time/Calendar_326x255.png)
+*Example of the two-booking-solution.*
 
 ## Heartbeat
 

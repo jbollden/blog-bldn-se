@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = true
 slug = "codeigniter-introduces-_serverci_env"
-tags = ["apache","codeigniter"]
+tags = ["apache", "codeigniter"]
 title = "CodeIgniter introduces $_SERVER['CI_ENV']"
 
 +++
