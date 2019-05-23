@@ -23,7 +23,7 @@ Hopefully, the site will constantly be changing, especially when it comes to the
 
 ## My profile
 
-**Core: Husband, tunnel-rat, shooter, servant-leader; Work: Consultant Manager at Sogeti Luleå.**
+**"Agile leader and techie on the PDSA cycle who enjoys coaching and simulated free falls. Working as a consultant manager. #agile #pdsa #bodyflight #SogetiLuleå"**
 
 With an evolved ability to structure and lead development related work I'm always in search of sustainable solutions for the customer. This I do with catchwords like *simplicity* and *clarity* in mind.
 
