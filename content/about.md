@@ -23,7 +23,7 @@ Hopefully, the site will constantly be changing, especially when it comes to the
 
 ## My profile
 
-**"Agile leader and techie on the PDSA cycle who enjoys coaching and simulated free falls. Working as a consultant manager. #agile #pdsa #bodyflight #SogetiLuleå"**
+**"Agile leader and techie on the Sense-and-Respond cycle who enjoys coaching and simulated free falls. Working as a consultant manager at #SogetiLuleå."**
 
 With an evolved ability to structure and lead development related work I'm always in search of sustainable solutions for the customer. This I do with catchwords like *simplicity* and *clarity* in mind.
 
