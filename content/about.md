@@ -27,7 +27,7 @@ Hopefully, the site will constantly be changing, especially when it comes to the
 
 With an evolved ability to structure and lead development related work I'm always in search of sustainable solutions for the customer. This I do with catchwords like *simplicity* and *clarity* in mind.
 
-I've been in the IT-industry for more than 15 years and have a high general technical understanding.  The quest of learning anew is important, as is to question what I already know. By constantly trying to evolve I believe I can do a better job, regardless the task at h$
+I've been in the IT-industry for close to 20 years and have a high general technical understanding.  The quest of learning anew is important, as is to question what I already know. By constantly trying to evolve I believe I can do a better job, regardless the task at hand.
 
 Should you want to know more about me, you can find information at https://www.linkedin.com/in/jonasbollden.
 

@@ -1,6 +1,6 @@
 +++
 title = "Another chapter begins"
-date = 2020-08-13T13:59:01+02:00
+date = 2020-08-13T10:59:01+02:00
 tags = ["news"]
 featured_image = "https://media.cdn.teamtailor.com/images/s3/teamtailor-production/logotype-v1/image_uploads/9d0bfeed-32ce-4483-b4b0-1597b4033fca/original.png"
 description = ""
@@ -12,4 +12,5 @@ During these three years I’ve learned a lot about myself and my leadership, ab
 
 > As Development Manager, you are responsible for creating an efficient delivery by leading, developing and coaching your employees as well as ensuring optimal and profitable utilization of skills and resources in your work group. At present, the group consists of about 20 employees, ...
 
-I’ll be starting my new position on October 1st!
+I’ll be starting my new position on October 1st! And I’m looking forward to develop my management skills and deepen my leadership skills at Metria. That's not as easy as “X marks the spot”... :wink:
+
